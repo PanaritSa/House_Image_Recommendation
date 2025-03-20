@@ -5,3 +5,6 @@ opencv-python-headless
 numpy
 scikit-learn
 Pillow
+pydeck
+sqlite3
+pandas
